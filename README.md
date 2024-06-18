@@ -1,6 +1,6 @@
 # Projeto arduino
-de Felipe costa e Alice Shikida
-A proposta do trabalho é fazer um simluador de temperatura, o qual mostra por um visor led a temperatura em graus Celsius que muda conforme a climatização aumenta ou diminui, possuindo um codigo que permite o funcionamento do sistema.
+De Felipe Costa e Alice Shikida
+Proposta do projeto: Um simulador de temperatura dotado de um visor LED que exibe a temperatura em graus Celsius. Este sistema é complementado por um código funcional que assegura o desempenho eficaz do dispositivo, proporcionando uma experiência interativa e educativa acerca das flutuações térmicas. Ideal tanto para aprendizado quanto para demonstrações práticas, o simulador promete ser uma ferramenta versátil e informativa.
 # Os elementos utilizados para a construção desse termometro foram:
 1. Arduino 
 2. Placa de ensaio 
