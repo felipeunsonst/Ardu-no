@@ -1,6 +1,8 @@
-Projeto arduino
+# Projeto arduino
+de Felipe costa e Alice Shikida
 A proposta do trabalho é fazer um simluador de temperatura, o qual mostra por um visor led a temperatura em graus Celsius que muda conforme a climatização aumenta ou diminui.
-OS elementos utilizados para a construção desse termometro são Arduino, placa de ensaio, visor de led, potênciometro, sensor de temperatura, fios e resistor alem do codigo que permite
+# Os elementos utilizados para a construção desse termometro são:
+ Arduino, placa de ensaio, visor de led, potênciometro, sensor de temperatura, fios e resistor alem do codigo que permite
 o funcionamento do sistema
 
 https://www.tinkercad.com/things/frkADY4wr2Z-trabalho-temperatura/editel?sharecode=nSsMeMWGrt8ZAhGvDpn_sihWEwPRAzqr6M9yZsc4aRY
